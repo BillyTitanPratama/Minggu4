@@ -52,7 +52,7 @@
             </tr>
             <tr>
                 <td></td>
-                <td><input type="submit" class="btn btn-warning" name="input" value="simpan"></td>
+                <td><input type="submit" class="btn btn-warning" name="input" value="Simpan"></td>
             </tr>
 
         </table>
